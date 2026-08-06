@@ -1,0 +1,13 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/dbryan-tech/knust-bazaar-releases/main/downloads/knust-bazaar-1.1.0.apk",
+  "sha256": "4df4af9ffac3dd902c4deb0be288c8a86245227b993baef58b328b27d3ed176d",
+  "changelog": [
+    "Solid white web and APK navigation surfaces",
+    "Working browser and Android back navigation",
+    "Google sign-in returns to the APK",
+    "Secure in-app APK update checks and installation"
+  ],
+  "publishedAt": "2026-08-06T00:00:00Z"
+}
